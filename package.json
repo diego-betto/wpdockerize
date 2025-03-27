@@ -1,0 +1,19 @@
+{
+    "name": "wpdockerize",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.mjs",
+    "directories": {
+      "lib": "lib"
+    },
+    "bin": "src/index.mjs",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node src/index.mjs"
+    },
+    "author": "Diego Betto <info@diegobetto.com>",
+    "license": "LGPL-3.0-or-later",
+    "dependencies": {
+      "inquirer": "12.5.0"
+    }
+  }
