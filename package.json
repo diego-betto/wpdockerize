@@ -1,8 +1,9 @@
 {
     "name": "wpdockerize",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "",
     "main": "src/index.mjs",
+    "keywords": ["wordpress", "docker", "mysql", "mailhog"],
     "directories": {
       "lib": "lib"
     },
