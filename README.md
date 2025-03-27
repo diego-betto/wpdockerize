@@ -10,10 +10,7 @@ With `wpdockerize`, you can quickly set up a containerized and ready-to-use Word
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Command Behavior](#command-behavior)
-- [Features](#features)
 - [Requirements](#requirements)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
