@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2025-03-27
+
+### Changed
+
+- Updates CHANGELOG.md
+
+## [1.0.2] - 2025-03-27
+
+### Changed
+
+- Variables and default
+
 ## [1.0.0] - 2025-03-27
 
 ### Added
@@ -10,5 +22,7 @@ All notable changes to this project will be documented in this file.
 - Implemented core functionality.
 
 ---
+[1.0.3]: https://github.com/diego-betto/wpdockerize/compare/1.0.2...1.0.3
+[1.0.2]: https://github.com/diego-betto/wpdockerize/compare/1.0.0...1.0.2
+[1.0.0]: https://github.com/diego-betto/wpdockerize/tree/1.0.0
 
-[1.0.0]()
