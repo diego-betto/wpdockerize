@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.6] - 2025-03-27
+
+### Fixed
+
+- README.md
+
 ## [1.0.5] - 2025-03-27
 
 ### Changed
@@ -34,6 +40,7 @@ All notable changes to this project will be documented in this file.
 - Implemented core functionality.
 
 ---
+[1.0.6]: https://github.com/diego-betto/wpdockerize/compare/1.0.5...1.0.6
 [1.0.5]: https://github.com/diego-betto/wpdockerize/compare/1.0.4...1.0.5
 [1.0.4]: https://github.com/diego-betto/wpdockerize/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/diego-betto/wpdockerize/compare/1.0.2...1.0.3
