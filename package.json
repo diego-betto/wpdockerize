@@ -8,7 +8,6 @@
     },
     "bin": "src/index.mjs",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node src/index.mjs"
     },
     "author": "Diego Betto <info@diegobetto.com>",
