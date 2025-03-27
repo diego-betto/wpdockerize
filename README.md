@@ -1,5 +1,7 @@
 # wpdockerize
 
+![](screenshot.png)
+
 **wpdockerize** is a package that allows you to effortlessly generate a `docker-compose.yml` file to set up a simple **WordPress** stack. Through an interactive command, it enables you to define customized configurations for **Docker**, **WordPress**, **MailHog**, and **MySQL**, eliminating the complexity of manually writing the file.
 
 With `wpdockerize`, you can quickly set up a containerized and ready-to-use WordPress development environment.
