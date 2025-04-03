@@ -1,7 +1,7 @@
 {
     "name": "wpdockerize",
-    "version": "1.0.6",
-    "description": "",
+    "version": "1.0.7",
+    "description": "wpdockerize is a package that allows you to effortlessly generate a `docker-compose.yml` file to set up a simple WordPress stack",
     "main": "src/index.mjs",
     "keywords": ["wordpress", "docker", "mysql", "mailhog"],
     "directories": {
@@ -13,6 +13,8 @@
     },
     "author": "Diego Betto <info@diegobetto.com>",
     "license": "LGPL-3.0-or-later",
+    "repository": "diego-betto/wpdockerize",
+    "homepage": "https://github.com/diego-betto/wpdockerize",
     "dependencies": {
       "inquirer": "12.5.0"
     }
